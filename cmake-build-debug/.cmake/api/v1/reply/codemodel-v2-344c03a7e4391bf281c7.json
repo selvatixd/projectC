@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "projectC",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "projectC_for::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-projectC_for-Debug-f797a5493a95d1c9dcfb.json",
+					"name" : "projectC_for",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "projectC_if_else::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-projectC_if_else-Debug-24f2d09fa0bf2ae4a114.json",
+					"name" : "projectC_if_else",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "projectC_switch_case::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-projectC_switch_case-Debug-a1cea380c6698e1e18b0.json",
+					"name" : "projectC_switch_case",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "projectC_while::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-projectC_while-Debug-661118144e1174ab6a4c.json",
+					"name" : "projectC_while",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Math/CLionProjects/projectC/cmake-build-debug",
+		"source" : "C:/Users/Math/CLionProjects/projectC"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

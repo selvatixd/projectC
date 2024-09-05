@@ -1,0 +1,14 @@
+# ninja log v6
+17	170	7472025619952101	CMakeFiles/projectC.dir/while.c.obj	b2d469871d838b1
+9	188	7472025619874026	CMakeFiles/projectC.dir/for.c.obj	88d5718ca63b747a
+90	193	7472034911081553	projectC_for.exe	f33ba5ccf065ccb3
+3	87	7472032366121816	projectC_for/CMakeFiles/projectC_for.dir/for.c.obj	4fb133ae7052b7e2
+3	191	7472025619805701	CMakeFiles/projectC.dir/if-else.c.obj	cdf85a08c9a2e5e
+171	273	7472025621494189	CMakeFiles/projectC.dir/switch-case.c.obj	fd310110ff9b5dc7
+88	212	7472032366970678	projectC_for/projectC_for.exe	a492895d576b503
+3	344	7472035420054156	build.ninja	f0e0c2acaf69cd48
+18	87	7472034910378824	CMakeFiles/projectC_for.dir/for.c.obj	a991bc7bd856ed59
+4	87	7472035556107473	CMakeFiles/projectC_if_else.dir/if-else.c.obj	f657dd7ce227637
+88	211	7472035556946838	projectC_if_else.exe	b08da2f1b1c9e0c7
+3	86	7472035669092623	CMakeFiles/projectC_switch_case.dir/switch-case.c.obj	5486fdbdfd391043
+86	205	7472035669922223	projectC_switch_case.exe	5bded06639858696

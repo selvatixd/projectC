@@ -1,0 +1,6 @@
+C:/Users/Math/CLionProjects/projectC/cmake-build-debug/CMakeFiles/projectC_if_else.dir
+C:/Users/Math/CLionProjects/projectC/cmake-build-debug/CMakeFiles/projectC_for.dir
+C:/Users/Math/CLionProjects/projectC/cmake-build-debug/CMakeFiles/projectC_while.dir
+C:/Users/Math/CLionProjects/projectC/cmake-build-debug/CMakeFiles/projectC_switch_case.dir
+C:/Users/Math/CLionProjects/projectC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Math/CLionProjects/projectC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
